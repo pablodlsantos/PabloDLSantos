@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pablodlsantos
-- 👀 I’m interested in game development!
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on videogame oriented projects
+- 👀 I’m interested in front-end and game development!
+- 🌱 I’m currently learning Web Development, C# and Unity
+- 💞️ I’m looking to collaborate on videogame oriented projects and seeking a first Web Development job
 - 📫 How to reach me: 95roymustang@gmail.com
 
 <!---
